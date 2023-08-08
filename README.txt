@@ -1,4 +1,4 @@
-# Hello Git and Github
+# Hello Git and Github #
 ## Description
 ### Main purpose of the project
 ### Why did I built it?
